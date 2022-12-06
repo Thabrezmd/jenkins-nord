@@ -11,4 +11,8 @@ node {
         echo "Some tests execution here..."
         echo "1"
     }
+    stage("dev") {
+        echo "Some tests execution here..."
+        echo "1"
+    }   
 }
